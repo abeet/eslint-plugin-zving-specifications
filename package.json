@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-zving-specifications",
+  "version": "0.2.1",
+  "description": "常用js开发约束：1.lodash不要全部引入 2.不允许用moment 3.必须要写扩展名 4.不允许加全局变量 5.不允许写cookie",
+  "author": "http://www.zving.com",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeet/eslint-plugin-zving-specifications.git"
+  },
+  "keywords": [
+    "zving",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "homepage": "https://github.com/abeet/eslint-plugin-zving-specifications#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "~5.8.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "license": "ISC"
+}
